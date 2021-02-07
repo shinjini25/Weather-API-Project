@@ -1,8 +1,8 @@
 import requests
 from twilio.rest import Client
 
-account_sid= "AC2a1d8865b82abcc3aa4a92bab68c9aa2"
-auth_token=   "f08f1a04e08a7c807acbc3599af90d78"
+account_sid= "" //your own Twilio sid
+auth_token=   " " //auth token
 
 OVM_endpoint="https://api.openweathermap.org/data/2.5/onecall"
 
